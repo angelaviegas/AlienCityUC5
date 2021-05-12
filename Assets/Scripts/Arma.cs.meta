@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54fc2239d591ca34f99581e7fe66fb12
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bocaDeCano: {instanceID: 0}
+  - tiroPrefab: {fileID: 6951709374410908088, guid: c9b6dd98e8424e24f8e219c520bb19d4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
