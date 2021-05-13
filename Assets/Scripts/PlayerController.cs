@@ -116,11 +116,11 @@ public class PlayerController : MonoBehaviour
 			case 2:
 				if (!parado && tocaChao)
 				{
-					anim.SetTrigger("correrlaranja");
+					anim.SetTrigger("correrLaranja");
 				}
 				else 
 				{
-					anim.SetTrigger("paradoLaranja");
+					anim.SetTrigger("paradolaranja");
 				}
 				break;
 			default:
